@@ -1,2 +1,3 @@
 # CodeShower
-Welcome to my personal experiences
+Welcome to the CodeShower pool.
+You'll get an update soon.
