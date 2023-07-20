@@ -1,0 +1,9 @@
+Dear All,
+
+{0} password will expire in {1} days. Please change the password BEFORE it expires.
+
+Please set "Yes" in the corresponding Reset Status Section of the Calendar Excel File after resetting the password. 
+
+If you have any questions, please contact the RPA Support.
+
+Thank You!
